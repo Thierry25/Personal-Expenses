@@ -13,3 +13,7 @@ What was covered
 - Lifting Up State
 - Adding assets (Image, Icons, Font Family)
 - Style (Bottom Modal Sheet, Date Picker, Card, ...)
+
+
+https://user-images.githubusercontent.com/12016372/154768978-b449056c-c521-4169-a90e-25bc8b7e0871.mp4
+
